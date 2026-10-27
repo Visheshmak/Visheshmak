@@ -1,29 +1,48 @@
-## Hi , I'm Vishesh 👋
+## Hi, I'm Vishesh Makwana 👋
 
-Computer Science student at SGGSIET,Nanded
-Engineering student at SSGGSIET
-I create projects using trending techstacks
+**Aspiring AI / Backend Engineer** · B.Tech CSE '27 · building reliable LLM applications and backend systems with Python, FastAPI, and React.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishesh-makwana-15ba1b281)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:visheshmakwana11@gmail.com)
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Visheshmak) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishesh-makwana-15ba1b281) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:visheshmakwana11@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Visheshmak&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Visheshmak&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Visheshmak&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Visheshmak&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 🔭 Currently building production-style AI and backend systems: RAG evaluation, guardrails, async job processing
+- 🧠 Practising DSA daily: **100+ LeetCode problems** solved
+- 🎯 Looking for **Software Engineering / AI-ML internships**
 
 ---
-[![](https://komarev.com/ghpvc/?username=Visheshmak&icon=0&color=0)](https://visitcount.itsvg.in)
 
+### 🚀 Featured projects
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**RAGGuard**](https://github.com/Visheshmak/RAGGuardrail-Project) | Regression-safe RAG evaluation platform. It scores accuracy, retrieval recall, and faithfulness against a baseline, blocks releases that regress, and runs 5 guardrails (prompt injection, PII, leakage, safety, grounding) | FastAPI · React/TS · PostgreSQL · Qdrant · Celery · Redis |
+| [**Distributed Job Scheduler**](https://github.com/Visheshmak/distributed-job-scheduler) | Fault-tolerant job queue using PostgreSQL `FOR UPDATE SKIP LOCKED`. Supports retries with backoff, a dead-letter queue, cron jobs, worker heartbeats, and crash recovery | FastAPI · PostgreSQL · React/TS · Docker |
+| [**ResumeIQ**](https://github.com/Visheshmak/Resume-AI) | Evidence-first resume ↔ job-description analyser. Parses PDF and DOCX, matches skills deterministically, and backs every finding with source evidence | FastAPI · React/TS · PostgreSQL/pgvector · Redis |
+| [**MHT-CET College Recommender**](https://github.com/Visheshmak/college-recommendation-system) | Percentile-based college recommendations, an enquiry chatbot, comparisons, and PDF reports | Flask · MongoDB · LLM APIs |
+
+<details>
+<summary>More projects</summary>
+
+- [**Python DSA Journey**](https://github.com/Visheshmak/Python-DSA-Journey): my LeetCode solutions organised by topic, with complexity notes
+- [**MovieFlix**](https://github.com/Visheshmak/Movieflix): movie discovery app using vanilla JS and the TMDB API
+- [**TINREC**](https://github.com/Visheshmak/Tinrec-Project): e-waste management web app (Node.js, Express, MongoDB, JWT auth)
+- [**TextUtils**](https://github.com/Visheshmak/TextUtils): React text analysis utility
+
+</details>
+
+---
+
+### 🛠️ Tech stack
+
+**Languages:** Python · TypeScript · JavaScript · SQL
+**Backend:** FastAPI · Flask · Node.js/Express · SQLAlchemy · Celery · REST APIs · JWT auth
+**AI / LLM:** RAG · vector embeddings · Qdrant · pgvector · LLM evaluation · guardrails · OpenAI / Groq APIs
+**Frontend:** React · Vite · Tailwind CSS
+**Data & infra:** PostgreSQL · MongoDB · Redis · Docker · GitHub Actions · pytest
+
+---
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Visheshmak&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Visheshmak&layout=compact&hide_border=true" alt="Top languages" />
+</p>
